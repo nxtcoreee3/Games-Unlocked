@@ -1,7 +1,10 @@
+Project Structure
+
 /
-├── index.html
-├── style.css
-├── script.js
+├── index.html        (Main launcher page)
+├── style.css         (UI styling n liquid glass look)
+├── script.js         (Launcher logic + search)
+├── structure.txt     (This file)
 └── assets/
     ├── Games Unlocked.png
     ├── WBWWB.png
