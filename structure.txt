@@ -1,5 +1,3 @@
-Project Structure
-
 /
 ├── index.html        (Main launcher page)
 ├── style.css         (UI styling n liquid glass look)
